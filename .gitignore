@@ -1,0 +1,14 @@
+*
+!javascript.js
+!python.py
+!java.java
+!cpp.cpp
+# keep it under each dir
+!.gitignore
+!CHANGELOG.md
+!LICENSE
+!README.*
+!README_CN.*
+!README_EN.*
+# ignore it under each dir
+.DS_Store
